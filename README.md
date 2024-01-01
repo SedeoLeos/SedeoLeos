@@ -6,13 +6,13 @@ Je suis Seba Gedeon Matsoula Malonga, un développeur passionné, enthousiaste �
 
 ## Compétences
 
-- **Langages de programmation :** JavaScript, Python, Java, Dart, HTML, CSS
+- **Langages de programmation :** JavaScript, Python, Java, Dart, PHP, HTML, CSS
 - **Base de données :** MongoDB, MySQL
 - **Outils de développement :** Git, Webpack, Babel,Vite, Docker
 - **Conception d'interface utilisateur :** CSS, TailWind
 - **Plateformes Cloud :** Render, Firebase
 - **Méthodologies de développement :** Agile, Scrum, TwoTup
-- **Framework :** React, Vue, Nuxt, Nest, Adonis, Strapi, Express, Django, PySide, Spring, React-native, Flutter
+- **Framework :** React, Vue, Nuxt, Nest, Adonis, Strapi, Lsravel, Express, Django, PySide, Spring, React-native, Flutter
 - **CMS :** Strapi
 
 ## Formation
