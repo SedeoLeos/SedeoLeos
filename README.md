@@ -13,7 +13,7 @@ Je suis Seba Gedeon Matsoula Malonga, un développeur passionné, enthousiaste �
 - **Plateformes Cloud :** Render,Hostinger, Firebase
 - **Serveur panle :** CPanel,CloudPanel
 - **Méthodologies de développement :** Agile, Scrum, TwoTup
-- **Framework :** React, Vue, Nuxt, Nest, Adonis, Strapi, Laravel, Express, Django, PySide, Spring, React-native, Flutter
+- **Framework :**  Vue, Nuxt, Next, Nest, Adonis, Strapi, Laravel, Express, Django, PySide, Spring, React-native, Flutter
 - **CMS :** Strapi, Wordpress
 
 ## Formation
